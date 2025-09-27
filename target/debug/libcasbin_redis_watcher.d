@@ -1,0 +1,1 @@
+/home/chris/opensource/casbin-rs-redis-watcher-test/redis-watcher-rs/target/debug/libcasbin_redis_watcher.rlib: /home/chris/opensource/casbin-rs-redis-watcher-test/redis-watcher-rs/src/lib.rs /home/chris/opensource/casbin-rs-redis-watcher-test/redis-watcher-rs/src/options.rs /home/chris/opensource/casbin-rs-redis-watcher-test/redis-watcher-rs/src/watcher.rs
