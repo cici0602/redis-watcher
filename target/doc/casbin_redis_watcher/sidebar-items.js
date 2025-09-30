@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["UpdateType","WatcherError"],"fn":["default_update_callback"],"struct":["Message","RedisWatcher","WatcherOptions"],"trait":["Watcher"],"type":["Result"]};

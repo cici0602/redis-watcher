@@ -1,5 +1,5 @@
-/home/chris/opensource/casbin-rs-redis-watcher-test/redis-watcher-rs/target/debug/build/libc-2f490522edf39f4b/build_script_build-2f490522edf39f4b.d: /home/chris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.176/build.rs
+/home/chris/opensource/casbin-rs-watcher/redis-watcher/target/debug/build/libc-2f490522edf39f4b/build_script_build-2f490522edf39f4b.d: /home/chris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.176/build.rs
 
-/home/chris/opensource/casbin-rs-redis-watcher-test/redis-watcher-rs/target/debug/build/libc-2f490522edf39f4b/build_script_build-2f490522edf39f4b: /home/chris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.176/build.rs
+/home/chris/opensource/casbin-rs-watcher/redis-watcher/target/debug/build/libc-2f490522edf39f4b/build_script_build-2f490522edf39f4b: /home/chris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.176/build.rs
 
 /home/chris/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.176/build.rs:
